@@ -1,0 +1,14 @@
+﻿{
+  "en": {
+    "greeting": "Hello, Wolrd!",
+    "farewell": "Goodbye"
+  },
+  "pl": {
+    "greeting": "Witaj Świecie!",
+    "farewell": "Do widzenia"
+  },
+  "de": {
+    "greeting": "Hallo Welt!",
+    "farewell": "Auf Wiedersehen"
+  }
+}
