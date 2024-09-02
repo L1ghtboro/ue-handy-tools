@@ -1,6 +1,5 @@
 #include "Generators/SpawnCorridor.h"
-//#include "Utilities/RoomAssetLoader.h"
-//#include "Utilities/LoggingTool.h"
+#include "Utilities/LoggingTool.h"
 
 // Define log category for SpawnCorridor
 DEFINE_LOG_CATEGORY(LogSpawnCorridor);
